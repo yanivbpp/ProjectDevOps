@@ -25,7 +25,7 @@
     
     <link crossorigin="anonymous" media="all" integrity="sha512-8cJBg1Pqq9gEtjwggaEvvqfVi+08N0lvuuNhOLvDR4dXwEdNG9TBm1JV3eCijvysetJ6k1T8oUs6iBPFGvk4Lg==" rel="stylesheet" href="https://github.githubassets.com/assets/github-f1c2418353eaabd804b63c2081a12fbe.css" />
 
-  <script crossorigin="anonymous" defer="defer" integrity="sha512-DHpNa+QkQaUCk1eji+SQGDsKa8B63teT5nbKT3/TQ38T2hEDfT9B9OddmUKcMnQ8GaECHElNcJkpGhIThksyXA==" type="application/javascript" src="https://github.githubassets.com/assets/environment-0c7a4d6b.js"></script>
+  <script crossorigin="anonymous" defer="defer" integrity="sha512-DHpNa+QkQaUCk1eji+SQGDsKa8B63teT5nbKT3/TQ38T2hEDfT9B9OddmUKcMnQ8GaECHElNcJkpGhIThksyXA==" type="application/script" src="https://github.githubassets.com/assets/environment-0c7a4d6b.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-g8Q4c8cHgi3KPmJ7o+TOiNB7tPiq+F+DAhdTvWwRcr3nqNdfCHIh8bcXWUmR+1TLPJ30uLcUQLqaEage6oKY2w==" type="application/javascript" src="https://github.githubassets.com/assets/chunk-frameworks-83c43873.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-FKXP1Zj/06ElnU2g7tU//J/ilS/i7vutZAiWJRr59SBWKrnmHKIKNwPT+it8dEIdaGzT3DozyEbQQeZUEqvcMA==" type="application/javascript" src="https://github.githubassets.com/assets/chunk-vendor-14a5cfd5.js"></script>
   
